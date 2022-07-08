@@ -7,7 +7,7 @@ public class App {
   
     public static void main(String[] args) throws Exception {
 
-        // construo uma pessoa na variavel joao
+        // construo uma pessoa na variavel joao 
         Pessoa joao = new Pessoa("Joao da Silva", 15);
 
 
